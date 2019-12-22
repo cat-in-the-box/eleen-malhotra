@@ -1,0 +1,8 @@
+print("Ruffle: " + "\b less dog, more human")
+print("\n\t Breed: Chihuahua")
+print("\n\t Age:", 10, "years")
+print("\n\t Fun Fact", 1,": my parents wanted to name him Google")
+print("\n\t Fun Fact", 2,": my parents love him more than they love me")
+print("\n\t Fun Fact", 3,": he is literally the head of the household and everything revolves around him")
+print("\n\t Fun Fact", 4,": I wouldn't have it any other way")
+print("\n\t Fun Fact", 5,": can't wait to go home and see him in", 2, "short months")
